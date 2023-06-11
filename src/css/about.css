@@ -5,7 +5,6 @@
   justify-content: center;
   font-family: roboto;
   background-color: rgba(0, 0, 0, 0.945);
-
 }
 
 .about_section span {
@@ -52,7 +51,7 @@
   line-height: 22px;
 }
 
-.about_profile_txt p{
+.about_profile_txt p {
   margin: 1.5rem 0;
 }
 
@@ -66,7 +65,7 @@
   display: flex;
   justify-content: center;
   margin: auto;
-  padding: .5rem 0;
+  padding: 0.5rem 0;
   max-width: 400px;
   list-style: none;
   gap: 2rem;

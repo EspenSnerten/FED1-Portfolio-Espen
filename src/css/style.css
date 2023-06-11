@@ -19,7 +19,7 @@ body {
   background-color: rgba(0, 0, 0, 0.945);
   background-image: url(/src/media/portfolio-bg.jpg);
   background-repeat: no-repeat;
-  background-position: center ;
+  background-position: center;
   background-size: cover;
   background-attachment: fixed;
 }
