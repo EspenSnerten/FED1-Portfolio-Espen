@@ -1,0 +1,25 @@
+@import "/src/css/reset.css";
+@import "/src/css/layout.css";
+@import "/src/css/var.css";
+@import "/src/css/footer.css";
+@import "/src/css/header.css";
+@import "/src/css/about.css";
+@import "/src/css/work.css";
+@import "/src/css/contact.css";
+@import "/src/css/mediaqueries.css";
+
+@font-face {
+  font-family: "reitam";
+  src: url("/src/fonts/reitam.regular.otf") format("opentype");
+}
+
+body {
+  font-family: Roboto;
+  color: var(--main-txt-color);
+  background-color: rgba(0, 0, 0, 0.945);
+  background-image: url(/src/media/portfolio-bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center ;
+  background-size: cover;
+  background-attachment: fixed;
+}

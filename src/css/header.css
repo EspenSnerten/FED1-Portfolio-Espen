@@ -1,0 +1,17 @@
+.mobile_button,
+.mobile_nav {
+  display: none;
+}
+
+.nav_box {
+  display: flex;
+  position: fixed;
+  width: 100%;
+  justify-content: flex-end;
+  padding: 2rem 5rem .6rem 0;
+  gap: 2rem;
+  font-size: 1.3rem;
+  background-color: rgba(0, 0, 0, 0.973);
+  margin: 0;
+  z-index: 8;
+}
